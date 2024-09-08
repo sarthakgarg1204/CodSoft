@@ -28,13 +28,13 @@ The chatbot processes user input through the `chatbot_response()` function, whic
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/rule-based-chatbot.git
+   git clone https://github.com/sarthakgarg1204/Codsoft.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd rule-based-chatbot
+   cd 'Chatbot With Rule-Based Responses'
    ```
 
 3. Run the chatbot script:
