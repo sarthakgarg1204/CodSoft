@@ -42,6 +42,3 @@ This project is a movie recommender system that loads movie data from a CSV file
 - [lodash](https://www.npmjs.com/package/lodash): Utility library for common programming tasks.
 - [papaparse](https://www.npmjs.com/package/papaparse): Library for parsing CSV files.
 
-## License
-
-This project is licensed under the ISC License.

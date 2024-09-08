@@ -67,6 +67,3 @@ Chatbot: Goodbye! Have a fantastic day!
 
 Feel free to contribute to the project by opening a pull request or submitting an issue. Suggestions and enhancements are always welcome!
 
-## License
-
-This project is licensed under the MIT License.

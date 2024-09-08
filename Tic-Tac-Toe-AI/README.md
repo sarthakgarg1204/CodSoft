@@ -37,7 +37,3 @@ This project is a simple implementation of the classic Tic-Tac-Toe game using HT
 - **Multiplayer Mode**: Allow two players to play on the same device.
 - **Difficulty Levels**: Implement different levels of difficulty for the computer opponent.
 - **Animations**: Add animations for smoother transitions between game states.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
